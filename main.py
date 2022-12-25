@@ -1,5 +1,8 @@
-def mysum(a, b):
+def mysumint(a, b):
     return int(a) + int(b)
+
+def mysumfloat(a, b):
+    return float(a) + float(b)
 
 def main():
     print("Hello world")
