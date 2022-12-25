@@ -1,3 +1,6 @@
+def mysum(a, b):
+    return int(a) + int(b)
+
 def main():
     print("Hello world")
     print("Hello from A")
