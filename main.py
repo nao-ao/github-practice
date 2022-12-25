@@ -3,3 +3,4 @@ def main():
     print("Hello from A")
     print("Hello from B")
     print("Hello from C")
+    print("World A")
